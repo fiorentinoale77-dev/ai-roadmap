@@ -1,0 +1,5 @@
+site_name: Alessandro Fiorentino - AI Roadmap
+theme:
+  name: material
+nav:
+  - Home: index.md
